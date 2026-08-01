@@ -4,7 +4,7 @@ I'm S.M Tauhid<br><br>I am an Undergraduate student pursuing a Bachelor of Scien
 * 🔭 **Interests:** ML/AI research, penetration testing, and SOC analysis.
 * 💻 **Technical Stack:** Proficient in C, C++ and Python, with a strong foundation in Data Structures, Algorithms, and Linux (Ubuntu/Bash) environments.
 * 🏆 **Activities:** Active competitive programmer, regular CTF (Capture The Flag) participant, and General Secretary of the Competitive Programming Club at CUB.
-* * 📚 **Beyond Code:** An avid reader who enjoys diving into books, continuous learning, and engaging in campus volunteer initiatives.
+* 📚 **Beyond Code:** An avid reader who enjoys diving into books, continuous learning, and engaging in campus volunteer initiatives.
 
 Let's connect and build secure, intelligent systems!
 
